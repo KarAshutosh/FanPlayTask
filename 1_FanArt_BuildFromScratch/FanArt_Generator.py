@@ -23,7 +23,7 @@ tf.random.set_seed(42)
 np.random.seed(42)
 
 # Path to your dataset of cricketers' images
-dataset_path = '/content/drive/MyDrive/Shreya/FanPlay/Cricket Legends'
+dataset_path = '/content/drive/MyDrive/Ashutosh/FanPlay/Cricket Legends'
 
 # Image dimensions and channels
 img_width, img_height, channels = 64, 64, 3
